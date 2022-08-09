@@ -1,0 +1,79 @@
+[
+    {
+        "id": 0,
+        "name": "John",
+        "email": "johnny_b@gmail.com",
+        "password": "cGFzc3dvcmQa",
+        "isAdmin": true
+    },
+    {
+        "id": 1,
+        "name": "Sasha",
+        "email": "sasha_s@gmail.com",
+        "password": "cGFzc3dvcmQb",
+        "isAdmin": true
+    },
+    {
+        "id": 2,
+        "name": "Anna",
+        "email": "anna.bean@gmail.com",
+        "password": "cGFzc3dvcmQc",
+        "isAdmin": true
+    },
+    {
+        "id": 3,
+        "name": "Thomas",
+        "email": "tom_gery@gmail.com",
+        "password": "cGFzc3dvcmQd",
+        "isAdmin": true
+    },
+    {
+        "id": 4,
+        "name": "Audrey",
+        "email": "audrey.blink@gmail.com",
+        "password": "cGFzc3dvcmQe",
+        "isAdmin": true
+    },
+    {
+        "id": 5,
+        "name": "Arnold",
+        "email": "arnold.zok@gmail.com",
+        "password": "cGFzc3dvcmQf",
+        "isAdmin": true
+    },
+    {
+        "id": 6,
+        "name": "Richard",
+        "email": "dick.hamond@gmail.com",
+        "password": "cGFzc3dvcmQg",
+        "isAdmin": true
+    },
+    {
+        "id": 7,
+        "name": "Alison",
+        "email": "alison.grey@gmail.com",
+        "password": "cGFzc3dvcmQh",
+        "isAdmin": true
+    },
+    {
+        "id": 8,
+        "name": "Brad",
+        "email": "brad.may@gmail.com",
+        "password": "cGFzc3dvcmQi",
+        "isAdmin": true
+    },
+    {
+        "id": 9,
+        "name": "William",
+        "email": "will.w@gmail.com",
+        "password": "cGFzc3dvcmQj",
+        "isAdmin": true
+    },
+    {
+        "id": 10,
+        "name": "Onar",
+        "email": "onar.thomson@gmail.com",
+        "password": "cGFzc3dvcmQk",
+        "isAdmin": true
+    }
+]
